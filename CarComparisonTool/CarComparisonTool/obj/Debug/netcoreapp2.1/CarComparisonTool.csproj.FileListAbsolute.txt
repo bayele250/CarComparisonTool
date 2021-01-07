@@ -14,5 +14,5 @@ C:\Users\kelem\OneDrive\Documents\Sample Code\CarComparison\CarComparisonTool\Ca
 C:\Users\kelem\OneDrive\Documents\Sample Code\CarComparison\CarComparisonTool\CarComparisonTool\obj\Debug\netcoreapp2.1\CarComparisonTool.dll
 C:\Users\kelem\OneDrive\Documents\Sample Code\CarComparison\CarComparisonTool\CarComparisonTool\obj\Debug\netcoreapp2.1\CarComparisonTool.pdb
 C:\Users\kelem\OneDrive\Documents\Sample Code\CarComparison\CarComparisonTool\CarComparisonTool\obj\Debug\netcoreapp2.1\CarComparisonTool.genruntimeconfig.cache
-C:\Users\kelem\OneDrive\Documents\Sample Code\CarComparison\CarComparisonTool\CarComparisonTool\obj\Debug\netcoreapp2.1\CarComparisonTool.csproj.CoreCompileInputs.cache
 C:\Users\kelem\OneDrive\Documents\Sample Code\CarComparison\CarComparisonTool\CarComparisonTool\obj\Debug\netcoreapp2.1\CarComparisonTool.csprojAssemblyReference.cache
+C:\Users\kelem\OneDrive\Documents\Sample Code\CarComparison\CarComparisonTool\CarComparisonTool\obj\Debug\netcoreapp2.1\CarComparisonTool.csproj.CoreCompileInputs.cache
